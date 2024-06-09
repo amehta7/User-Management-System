@@ -98,7 +98,7 @@ const Home = () => {
   return (
     <div className='p-4'>
       <Head>
-        <title>User App</title>
+        <title>User Management System</title>
         <meta name='description' content='User Management System' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
